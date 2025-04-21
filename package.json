@@ -1,0 +1,8 @@
+{
+  "name": "qualtrics-upload-js",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "unzipper": "^0.10.11"
+  }
+}
